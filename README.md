@@ -1,28 +1,23 @@
 ## Tecnologias utilizadas
 
 - [React.js](https://pt-br.reactjs.org/)
-- [Node.js](https://nodejs.org/)
 - [Typescript](https://www.typescriptlang.org/)
+- [Firebase](https://firebase.google.com/)
 
 ## Projeto
-
-O projeto consiste em uma aplicação que o usuário pode interagir fazendo perguntas e recebendo uma resposta da comunidade.
+O projeto consiste em criar salas de Q&A e tirar dúvidas da sua audiência em tempo real.
 
 ## Como usar?
 Para iniciar a aplicação: 
 ```sh
-yarn dev
+yarn start
 ```
 
-Por fim, a aplicação estará disponível em `http://localhost:3333`
+Por fim, a aplicação estará disponível em `http://localhost:3000`
 
 ## Ideias de melhorias
 - [ ] Autenticação com outras plataformas.
-- [ ] Validar campos vazios
-- [ ] Adicionar bot�o para finalizar atendimento
-- [ ] Alterar layout do gerenciamento de atendimento
-- [ ] Criar aba para hist�rico de atendimento
-- [ ] Implementar avalia��o ao final do atendimento
+
 
 ## Licença
 
