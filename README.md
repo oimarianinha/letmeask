@@ -10,14 +10,18 @@ O projeto consiste em criar salas de Q&A e tirar dúvidas da sua audiência em t
 ## Como usar?
 Para iniciar a aplicação: 
 ```sh
+# Instalar dependências
+yarn
+
+# Iniciar o projeto
 yarn start
 ```
 
 Por fim, a aplicação estará disponível em `http://localhost:3000`
 
 ## Ideias de melhorias
-- [ ] Autenticação com outras plataformas.
-
+- [ ] Criar autenticação com outras plataformas;
+- [ ] Adicionar toasts a aplicação;
 
 ## Licença
 
