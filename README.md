@@ -12,7 +12,13 @@ Para iniciar a aplicação:
 ```sh
 # Instalar dependências
 yarn
+```
 
+Preencher as variáveis de ambiente no arquivo .env com as informações do seu projeto no Firebase
+
+![Configurações Firebase](./src/assets/images/firebase_readme.jpg?raw=true "Configurações Firebase")
+
+```sh
 # Iniciar o projeto
 yarn start
 ```
