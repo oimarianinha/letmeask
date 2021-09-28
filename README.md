@@ -29,6 +29,7 @@ Por fim, a aplicação estará disponível em `http://localhost:3000`
 - [ ] Criar autenticação com outras plataformas;
 - [ ] Adicionar toasts a aplicação;
 - [ ] Criar modal de exclusão de pergunta;
+- [ ] Adicionar data da publicação nas Q&A;
 - [X] Formatar data de encerramento da sala;
 
 ## Licença
