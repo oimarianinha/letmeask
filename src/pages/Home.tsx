@@ -42,6 +42,11 @@ export function Home() {
       return;
     }
 
+    if (roomRef.val().endedAt) {
+      alert(`Sala encerrada no dia ${new Date(roomRef.val().endedAt).toLocaleDateString('pt-BR')}`);
+      return;
+    }
+
     history.push(`rooms/${roomCode}`);
   }
 

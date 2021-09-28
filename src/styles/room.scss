@@ -15,6 +15,15 @@
       > img {
         max-height: 45px;
       }
+
+      > div {
+        display: flex;
+        gap: 16px;
+
+        button {
+          height: 40px;
+        }
+      }
     }
   }
 
@@ -38,7 +47,7 @@
         background: var(--pink);
         border-radius: 9999px;
         padding: 8px 16px;
-        color: var(--white);
+        color: var(--background);
         font-weight: 500;
         font-size: 14px;
       }
@@ -81,7 +90,7 @@
 
         > span {
           font-size: 14px;
-          color: var(--gray);
+          color: var(--info);
           font-weight: 500;
 
           button {
@@ -95,6 +104,10 @@
           }
         }
       }
+    }
+
+    .question-list {
+      margin-top: 32px;
     }
   }
 }

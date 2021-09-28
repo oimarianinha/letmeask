@@ -1,7 +1,7 @@
-// SVG
+//SVG
 import copyImg from "../assets/images/copy.svg";
 
-// Folha de estilos
+//Folha de estilos
 import "../styles/room-code.scss";
 
 type RoomCodeType = {

@@ -28,6 +28,8 @@ Por fim, a aplicação estará disponível em `http://localhost:3000`
 ## Ideias de melhorias
 - [ ] Criar autenticação com outras plataformas;
 - [ ] Adicionar toasts a aplicação;
+- [ ] Criar modal de exclusão de pergunta;
+- [X] Formatar data de encerramento da sala;
 
 ## Licença
 
